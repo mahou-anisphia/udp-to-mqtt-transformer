@@ -54,4 +54,3 @@ python3 main.py
 
 This project is open for educational and archival purposes.
 
-```
